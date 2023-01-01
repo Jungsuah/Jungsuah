@@ -34,4 +34,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=for-the-badge&logo=Eclipse-IDE&logoColor=white">
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
